@@ -1,0 +1,1 @@
+# fujinet-simple-json-test
